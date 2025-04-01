@@ -3,9 +3,11 @@
 **1. Estrutura de Classes e Objetos**
 
 a) Quais atributos são definidos na classe Animal? 
+
 Os atributos presentes na classe são: nome, espécie e idade. 
 
-b) Como a classe AnimalSelvagem amplia a estrutura de Animal? 
+b) Como a classe AnimalSelvagem amplia a estrutura de Animal?
+
 Com o constructor, a classe AnimalSelvagem herda os métodos e atributos da classe base “Animal” e adiciona o novo atributo “habitat”.
 
 **2. Herança**
